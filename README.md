@@ -8,3 +8,7 @@
 ### cat komutu yanına yazılanı tekrar yazar.
 ### clear komutu terminal ekranını temizler
 ### exit komutu ise programdan çıkar
+
+![alt text](https://github.com/emineayranci/MyShell/blob/main/ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.PNG)
+
+
